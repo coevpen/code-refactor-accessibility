@@ -2,6 +2,12 @@
 
 Provided a given code of a landing page for a hypothetical company, I was tasked to refactor the code to meet accessibility standards and search engine optimization. In addition, I was to clean up the code originally provided to improve legibility and consistency. I fixed broken links, rearranged the CSS layout, and included comments where necessary. 
 
+The website link: https://coevpen.github.io/code-refactor-accessibility/
+
+Languages used: html, css
+
+
+
 Below is the user story and acceptance criteria provided:
 
 ## User Story
