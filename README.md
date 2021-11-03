@@ -8,9 +8,9 @@ Languages used: html, css
 
 
 
-Below is the user story and acceptance criteria provided:
+## Below is the user story and acceptance criteria provided:
 
-## User Story
+ User Story
 
 ```
 AS A marketing agency
@@ -18,7 +18,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our site is optimized for search engines
 ```
 
-## Acceptance Criteria
+Acceptance Criteria
 
 ```
 GIVEN a webpage that meets accessibility standards
